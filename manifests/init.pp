@@ -1,4 +1,4 @@
-# This is a placeholder class.
-class template {
-  anchor { 'Hello_World': }
+class mosh {
+  include homebrew
+  package { 'mobile-shell' : }
 }
